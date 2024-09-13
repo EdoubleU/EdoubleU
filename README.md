@@ -1,7 +1,6 @@
 <html>
   <ul>
 <li> 👋 Hi, I’m Ethan @ ethanwing.me!</li>
- @ ethanwing.me
 <li> 👀 I’m interested in basketball, creating and playing games of both a digital and physical nature, and general software/web development. </li>
 <li> 🌱 I’m transitioning from programming as a hobby/ancillary work function to web design & development as a full-time profession. </li>
 <li> 💞️ I’m looking to collaborate on almost anything JS-related, but I am extra excited about anything basketball-related. </li>
